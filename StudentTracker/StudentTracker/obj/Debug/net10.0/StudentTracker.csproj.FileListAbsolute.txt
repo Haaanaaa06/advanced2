@@ -1,0 +1,16 @@
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\bin\Debug\net10.0\StudentTracker.exe
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\bin\Debug\net10.0\StudentTracker.deps.json
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\bin\Debug\net10.0\StudentTracker.runtimeconfig.json
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\bin\Debug\net10.0\StudentTracker.runtimeconfig.dev.json
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\bin\Debug\net10.0\StudentTracker.dll
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\bin\Debug\net10.0\StudentTracker.pdb
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.AssemblyInfoInputs.cache
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.AssemblyInfo.cs
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.csproj.CoreCompileInputs.cache
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.dll
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\refint\StudentTracker.dll
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.pdb
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentTracker.genruntimeconfig.cache
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\ref\StudentTracker.dll
+C:\Users\hana\source\repos\StudentTracker\StudentTracker\obj\Debug\net10.0\StudentT.49B335BB.Up2Date
